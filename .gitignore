@@ -1,0 +1,7 @@
+build/
+*.class
+*.crypto
+decrypted-*
+decrypted.txt
+*.log
+.DS_Store
